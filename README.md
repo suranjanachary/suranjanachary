@@ -20,7 +20,9 @@ Here are some ideas to get you started:
 I'm [Suranjan](https://github.com/suranjanachary), An Aspiring Backend Developer with a specialization in Java, Spring Boot, SQL,REST APIs with a passion for learning with an endless supply of optimism and curiosity.
 
 
-I'm an Object-oriented, design Self-motivated and curious, with a keen interest in building user-centric products. Looking forward to honing my skills in a challenging work environment.<br/>
+Aspiring Backend Developer with adequate skills, self motivated and
+curious, with a keen interest in building user-centric products. Looking
+forward to honing my skills in a challenging environment.<br/>
 
 
   💼 Do reach [email](mailto:suranjan.achary@gmail.com) <br/>
