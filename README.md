@@ -23,7 +23,7 @@ I'm [Suranjan](https://github.com/suranjanachary), An Aspiring Backend Developer
 I'm an Object-oriented, design Self-motivated and curious, with a keen interest in building user-centric products. Looking forward to honing my skills in a challenging work environment.<br/>
 
 
-  💼 any freelance work? do reach [email](mailto:suranjan.achary@gmail.com) <br/>
+  💼 Do reach [email](mailto:suranjan.achary@gmail.com) <br/>
   💬 Ask me about anything, i would love to help 😄 <br/>
   👨‍💻 Checkout my [Portfolio](https://suranjan-achary-portfolio.netlify.app) & [my linkedin profile](https://www.linkedin.com/in/suranjan-achary-8b27b7174/) <br/>
   
