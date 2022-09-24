@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 I'm [Suranjan](https://github.com/suranjanachary), An Aspiring Backend Developer with a specialization in Java, Spring Boot, SQL,REST APIs with a passion for learning with an endless supply of optimism and curiosity.
 
 
-Aspiring Backend Developer with adequate skills, self motivated and
+Having adequate skills, self motivated and
 curious, with a keen interest in building user-centric products. Looking
 forward to honing my skills in a challenging environment.<br/>
 
