@@ -45,13 +45,13 @@ forward to honing my skills in a challenging environment.<br/>
   <p align="center">
       <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="css" width="55" height="55"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="55" height="55"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="55" height="55"/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/600px-JavaScript-logo.png?20120221235433" alt="javascript" width="55" height="55"/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/512px-Bootstrap_logo.svg.png?20210507000024" alt="bootstrap" width="55" height="55"/>
       <img src="https://www.svgrepo.com/show/184143/java.svg" alt="Java" height="55"/>
       <img src="https://www.svgrepo.com/show/355152/oracle.svg" alt="Oracle"  height="55"/>
       <img src="https://www.svgrepo.com/show/354099/mysql.svg" alt="MySQL"  height="55"/>
       <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" width="55" height="55"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS"  height="55"/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/512px-Amazon_Web_Services_Logo.svg.png?20170912170050" alt="AWS"  height="55"/>
       <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" width="55" height="55" marginleft="15"/>
       <img src="https://www.svgrepo.com/show/354048/material-ui.svg" alt="GIT" width="55" height="55" marginleft="15"/>
 </p></span>
