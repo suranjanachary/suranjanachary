@@ -27,7 +27,7 @@ forward to honing my skills in a challenging environment.<br/>
 
   💼 Do reach [email](mailto:suranjan.achary@gmail.com) <br/>
   💬 Ask me about anything, i would love to help 😄 <br/>
-  👨‍💻 Checkout my [Portfolio](https://suranjan-achary-portfolio.netlify.app) & [my linkedin profile](https://www.linkedin.com/in/suranjan-achary-8b27b7174/) <br/>
+  👨‍💻 Checkout my [Portfolio](https://portfolio-suranjan-achary.netlify.app) & [my linkedin profile](https://www.linkedin.com/in/suranjan-achary-8b27b7174/) <br/>
   
 
 
