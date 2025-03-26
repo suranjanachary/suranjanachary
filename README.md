@@ -44,9 +44,9 @@ forward to honing my skills in a challenging environment.<br/>
 
 - Developed and maintained scalable web applications using **Java (backend)** and **Angular (frontend)**.
 - Collaborated with cross-functional teams to deliver high-quality ERP solutions.
-- Integrated **RESTful APIs**, improving data retrieval speed by **30%**.
+- Integrated **RESTful APIs**.
 - Designed and optimized user-friendly interfaces, increasing **user satisfaction**.
-- Implemented **REST APIs**, reducing data processing errors by **40%**.
+- Implemented **REST APIs**.
 - Continuously learning and adopting new technologies, boosting **development efficiency**.
 
 ---
@@ -57,6 +57,7 @@ forward to honing my skills in a challenging environment.<br/>
 <span><h2 align="center">Languages and Tools:</h2>
   <br>
   <p align="center">
+      <img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="Angular" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="css" width="55" height="55"/>
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/600px-JavaScript-logo.png?20120221235433" alt="javascript" width="55" height="55"/>
