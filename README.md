@@ -30,13 +30,22 @@ forward to honing my skills in a challenging environment.<br/>
   👨‍💻 Checkout my [Portfolio](https://portfolio-suranjan-achary.netlify.app) & [my linkedin profile](https://www.linkedin.com/in/suranjan-achary-8b27b7174/) <br/>
   
 
-
-
 <a href="https://www.linkedin.com/in/suranjan-achary-8b27b7174/">
   <img align="left" alt="Suranjan's LinkedIN" width="100px" src="https://cdn.icon-icons.com/icons2/2530/PNG/512/linkedin_button_icon_151847.png" />
 </a>
 
+### **Full-Stack Developer**
+**Hostbooks Limited**  
+📍 *Gurgaon, India*  
 
+- Developed and maintained scalable web applications using **Java (backend)** and **Angular (frontend)**.
+- Collaborated with cross-functional teams to deliver high-quality ERP solutions.
+- Integrated **RESTful APIs**, improving data retrieval speed by **30%**.
+- Designed and optimized user-friendly interfaces, increasing **user satisfaction**.
+- Implemented **REST APIs**, reducing data processing errors by **40%**.
+- Continuously learning and adopting new technologies, boosting **development efficiency**.
+
+---
 
 <br />
 
