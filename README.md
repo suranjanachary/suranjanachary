@@ -34,6 +34,10 @@ forward to honing my skills in a challenging environment.<br/>
   <img align="left" alt="Suranjan's LinkedIN" width="100px" src="https://cdn.icon-icons.com/icons2/2530/PNG/512/linkedin_button_icon_151847.png" />
 </a>
 
+<br/>
+
+## 🏆 Experience
+
 ### **Full-Stack Developer**
 **Hostbooks Limited**  
 📍 *Gurgaon, India*  
@@ -46,6 +50,7 @@ forward to honing my skills in a challenging environment.<br/>
 - Continuously learning and adopting new technologies, boosting **development efficiency**.
 
 ---
+
 
 <br />
 
